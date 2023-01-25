@@ -1,0 +1,100 @@
+.navbar{
+    display: flex;
+    height: 80px;
+    width: 1500px;
+}
+
+.searchbar{
+    display: flex;
+}
+
+.logo{
+    display: flex;
+}
+
+.userprof{
+    display: flex;
+}
+
+.menuicon{
+    padding-top: 29px;
+    padding-left: 29px;
+}
+
+.companylogo{
+    padding-top: 25px;
+    margin-left: 30px;
+}
+
+.searchicon{
+    /* padding-left: 80px; */
+    padding-top: 29px;
+    margin-left: 130px;
+}
+
+.form-control{
+    margin-top: 23px;
+    margin-left: 10px;
+    padding-left: 7px;
+    width: 700px;
+}
+
+.bellicon{
+    padding-top: 25px;
+    padding-left: 200px;
+
+}
+
+.profavatar{
+    padding-top: 12px;
+    padding-left: 30px; 
+}
+
+.username{
+    padding-top: 25px;
+    padding-left: 12px;
+    font-size: 16px;
+    color: black;
+}
+
+.moreoptions{ 
+    padding-top: 25px;
+    padding-left: 10px;
+
+}
+
+.sidebarimg{
+    height: 15px;
+    width: 15px;
+    float: left;
+    margin-left: 45px;
+    margin-top: 2PX;
+}
+
+.sidebartext{
+    margin-left: 65px;
+}
+
+.dashboard, .analysis, .inbox, .history, .users, .maintenance, .setting{
+    height: 43px;
+    width: 183px;
+    padding-top: 20px;
+}
+
+.dashboard{
+    background-color: #FEF2F4;
+    border-radius: 12px;
+    margin-left: 30px;
+    padding-top: 15px;
+}
+
+.mainbody{
+    display: flex;
+}
+
+.maindashboard{
+background-color: #FAFAFA;
+height: 630px;
+width: 1400px;
+margin-left: 30px;
+}
