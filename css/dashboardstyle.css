@@ -17,30 +17,30 @@
 }
 
 .menuicon{
-    padding-top: 29px;
+    padding-top: 12px;
     padding-left: 29px;
 }
 
 .companylogo{
-    padding-top: 25px;
+    padding-top: 15px;
     margin-left: 30px;
 }
 
 .searchicon{
     /* padding-left: 80px; */
-    padding-top: 29px;
+    padding-top: 15px;
     margin-left: 130px;
 }
 
 .form-control{
-    margin-top: 23px;
+    margin-top: 10px;
     margin-left: 10px;
     padding-left: 7px;
     width: 700px;
 }
 
 .bellicon{
-    padding-top: 25px;
+    padding-top: 20px;
     padding-left: 200px;
 
 }
@@ -51,14 +51,14 @@
 }
 
 .username{
-    padding-top: 25px;
+    padding-top: 18px;
     padding-left: 12px;
     font-size: 16px;
     color: black;
 }
 
 .moreoptions{ 
-    padding-top: 25px;
+    padding-top: 17px;
     padding-left: 10px;
 
 }
@@ -68,11 +68,12 @@
     width: 15px;
     float: left;
     margin-left: 45px;
-    margin-top: 2PX;
+    margin-top: 3PX;
 }
 
 .sidebartext{
     margin-left: 65px;
+    margin-top: -3px;
 }
 
 .dashboard, .analysis, .inbox, .history, .users, .maintenance, .setting{
