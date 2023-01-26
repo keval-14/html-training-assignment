@@ -68,11 +68,13 @@
     width: 15px;
     float: left;
     margin-left: 45px;
-    margin-top: 2PX;
+    margin-top: 3PX;
 }
 
 .sidebartext{
     margin-left: 65px;
+    margin-top: -3px;
+
 }
 
 .dashboard, .analysis, .inbox, .history, .users, .maintenance, .setting{
