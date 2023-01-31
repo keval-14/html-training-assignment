@@ -48,6 +48,7 @@
 .dashbord-sidebar-detail {
   background: #fff3f4 0% 0% no-repeat padding-box;
   border-radius: 5px;
+  width: 250px !important;
   opacity: 1;
 }
 
